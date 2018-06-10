@@ -4,7 +4,7 @@
     <meta charset="utf-8">
   </head>
   <body>
-    <h1>O que é GitHub?</h1>
+    <h1>O que é Git?</h1>
     <p>Aprenda o que é GitHub na DevMedia.</p>
     <img src="https://assets-cdn.github.com/images/modules/logos_page/Octocat.png" alt="GitHub logo" width="300">
     <h3>Pré-requisito</h3>
